@@ -53,6 +53,14 @@ This project is an interactive Swiggy Sales Dashboard built using Microsoft Exce
 * Excel Analytics
 * Reporting & Insights Generation
 
+### 📸 Additional Screenshots
+
+![KPI Cards](Swiggy_sales_dashboard/Images/Images/kpi_1.png)
+
+![Sales Trend](Swiggy_sales_dashboard/Images/Images/sales_trend.png)
+
+![Key Insights](Swiggy_sales_dashboard/Images/Images/key_insights.png)
+
 ## 👨‍💻 Author
 
 Khushal Dak
