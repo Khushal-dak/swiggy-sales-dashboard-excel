@@ -6,6 +6,8 @@ This project is an interactive Swiggy Sales Dashboard built using Microsoft Exce
 
 ## 🚀 Dashboard Preview
 
+![Dashboard Preview](Swiggy_sales_dashboard/Images/Images/Dashboard_overview.png)
+
 ## 📈 Key Metrics
 
 * Total Sales
